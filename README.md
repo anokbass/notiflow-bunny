@@ -11,13 +11,13 @@ Plugin de notificações configuráveis para clientes Android no formato Bunny/V
 
 ## Instalação
 
-Use a URL de instalação do plugin no cliente Bunny/Vendetta:
+Use o manifesto direto do repositório no cliente Bunny/Vendetta:
 
-`https://anokbass.github.io/notiflow-bunny/notiflow`
+`https://raw.githubusercontent.com/anokbass/notiflow-bunny/main/dist/notiflow/manifest.json`
 
-Se o seu cliente pedir especificamente um manifesto, use:
+Se o seu cliente aceitar apenas a URL do bundle JavaScript, use:
 
-`https://anokbass.github.io/notiflow-bunny/notiflow/manifest.json`
+`https://raw.githubusercontent.com/anokbass/notiflow-bunny/main/dist/notiflow/index.js`
 
 Depois de instalar, ative o NotiFlow e abra suas configurações em **Settings → Plugins → NotiFlow**. Em interfaces traduzidas, o caminho pode aparecer como **Configurações → Plugins → NotiFlow**.
 
